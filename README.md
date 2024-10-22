@@ -17,8 +17,15 @@
 ###
 
 
+- 🌱 I’m currently learning **Express js, MongoDB, NextJs**
+
+- 📫 How to reach me **arafatahmedshlbd194@gmail.com**
+
+- ⚡ Fun fact **I think I am funny.**
+
 
 ###
+
 
 <h3 align="left">🛠 Language and tools</h3>
 
