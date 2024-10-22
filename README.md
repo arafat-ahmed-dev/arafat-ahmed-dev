@@ -1,5 +1,5 @@
 <h1 align="center">Arafat Ahmed</h1>
-<h4 align="center">frontend Developer</h4>
+<h4 align="center">Frontend Developer</h4>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/nasir252/" target="_blank">
