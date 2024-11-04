@@ -17,7 +17,7 @@
 ###
 
 
-- 🌱 I’m currently learning **Express js, MongoDB, NextJs**
+- 🌱 I’m currently kearning how to make optimize in my project**
 
 - 📫 How to reach me **arafatahmedshlbd194@gmail.com**
 
