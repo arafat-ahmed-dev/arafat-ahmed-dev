@@ -17,7 +17,7 @@
 ###
 
 
-- 🌱 I’m currently kearning how to make optimize in my project**
+- 🌱 I’m currently learning how to make optimize in my project**
 
 - 📫 How to reach me **arafatahmedshlbd194@gmail.com**
 
