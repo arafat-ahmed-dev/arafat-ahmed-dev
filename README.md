@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning how to make optimize in my project**
 
-- 📫 How to reach me **arafatahmedshlbd194@gmail.com**
+- 📫 How to reach me **arafatahmedshlbd457@gmail.com**
 
 - ⚡ Fun fact **I think I am funny.**
 
@@ -37,6 +37,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="28" width="33" alt="git logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"height="40" width="40" alt="npm logo"  />
   <img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" height="40" width="40"  alt="gsap logo"  />
+  <img src="https://appwrite.io/assets/logotype/white.svg" height="40" width="40"  alt="Appwrite logo"  />
   
 </div>
 
