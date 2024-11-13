@@ -37,7 +37,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="28" width="33" alt="git logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"height="40" width="40" alt="npm logo"  />
   <img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" height="40" width="40"  alt="gsap logo"  />
-  <img src="https://appwrite.io/assets/logotype/white.svg" height="40" width="40"  alt="Appwrite logo"  />
+  <img src="https://appwrite.io/assets/logotype/white.svg" height="100" width="100"  alt="Appwrite logo"  />
   
 </div>
 
