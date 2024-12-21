@@ -1,5 +1,5 @@
 <h1 align="center">Arafat Ahmed</h1>
-<h4 align="center">Frontend Developer</h4>
+<h4 align="center">Frontend Developer | Aspiring Full-Stack Developer</h4>
 
 <div align="center" >
   <img href="https://www.linkedin.com/in/arafat-ahmed-706320338?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
