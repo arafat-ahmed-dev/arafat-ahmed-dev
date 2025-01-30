@@ -37,7 +37,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="28" width="33" alt="git logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"height="40" width="40" alt="npm logo"  />
   <img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" height="40" width="40"  alt="gsap logo"  />
-  <img src="https://w7.pngwing.com/pngs/87/586/png-transparent-next-js-hd-logo.png" height="40" width="40" alt="Next.js logo" />
+  <img src="<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"><path d="M64 0C28.7 0 0 28.7 0 64s28.7 64 64 64c11.2 0 21.7-2.9 30.8-7.9L48.4 55.3v36.6h-6.8V41.8h6.8l50.5 75.8C116.4 106.2 128 86.5 128 64c0-35.3-28.7-64-64-64zm22.1 84.6l-7.5-11.3V41.8h7.5v42.8z"/></svg>" height="40" width="40" alt="Next.js logo" />
   <img src="https://appwrite.io/assets/logotype/black.svg" width="100"  alt="Appwrite logo"  />
   
 </div>
